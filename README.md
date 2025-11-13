@@ -28,8 +28,8 @@ Once the program is running, press keys **1–5** to switch between rendering mo
 | 1   | Wireframe with vertices       |
 | 2   | Wireframe only                |
 | 3   | Flat shading                  |
-| 4   | Textured model                |
-| 5   | (Optional: Add your own mode) |
+| 4   | Shading + wireframe           |
+| 5   | Textured model                |
 
 ## 📦 Build Instructions
 
